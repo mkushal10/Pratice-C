@@ -1,0 +1,42 @@
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\01. Boolean Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.csprojAssemblyReference.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\01. Boolean Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\01. Boolean Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.exe.config
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\01. Boolean Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\01. Boolean Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.pdb
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\01. Boolean Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\01. Boolean Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.pdb
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\02. Integer Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.exe.config
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\02. Integer Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\02. Integer Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.pdb
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\02. Integer Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.csprojAssemblyReference.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\02. Integer Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\02. Integer Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\02. Integer Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.pdb
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\03. String Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.exe.config
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\03. String Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\03. String Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.pdb
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\03. String Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.csprojAssemblyReference.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\03. String Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\03. String Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\03. String Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.pdb
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\04. Character Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.exe.config
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\04. Character Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\04. Character Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.pdb
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\04. Character Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.csprojAssemblyReference.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\04. Character Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\04. Character Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\04. Character Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.pdb
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\05. FloatData Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.exe.config
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\05. FloatData Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\05. FloatData Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.pdb
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\05. FloatData Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.csprojAssemblyReference.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\05. FloatData Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\05. FloatData Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\05. FloatData Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.pdb
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\06. Double Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.exe.config
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\06. Double Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\06. Double Data Type\DataTypeConsoleApp\DataTypeConsoleApp\bin\Debug\DataTypeConsoleApp.pdb
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\06. Double Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.csprojAssemblyReference.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\06. Double Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\06. Double Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\03. DataTypes\06. Double Data Type\DataTypeConsoleApp\DataTypeConsoleApp\obj\Debug\DataTypeConsoleApp.pdb
