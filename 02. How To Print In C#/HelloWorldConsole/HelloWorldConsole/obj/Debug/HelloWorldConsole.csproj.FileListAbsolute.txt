@@ -1,0 +1,7 @@
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\02 - How To Print In C#\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\02 - How To Print In C#\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\02 - How To Print In C#\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\02 - How To Print In C#\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.csprojAssemblyReference.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\02 - How To Print In C#\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\02 - How To Print In C#\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+C:\Users\Kushal Neupane\Desktop\.NET Tutorials\C# Tutorials\02 - How To Print In C#\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb
